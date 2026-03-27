@@ -1,0 +1,10 @@
+.svn/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+GIT_ANLEITUNG.md
+aaa*.txt
+bbb*.txt
+ccc*.txt
